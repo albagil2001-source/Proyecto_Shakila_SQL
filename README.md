@@ -3,6 +3,12 @@ Proyecto sobre la base de datos Shakila utilizando DBeaver
 
 Este repositorio contiene mi DataProject de Lógica de consultas SQL. Consiste en resolver 64 ejercicios sobre la base de datos Shakila, que simula un videoclub: películas, actores, clientes, alquileres y pagos. Las consultas están hechas con PostgreSQL y DBeaver.
 
+*Diagrama de la base de datos*
+
+<img width="1444" height="1292" alt="postgres - Shakila - public - diagrama" src="https://github.com/user-attachments/assets/7d24e070-9f46-48ab-9dae-7c3b50d8d8d3" />
+
+
+
 *Archivos*
 
 Las consultas están repartidas en cuatro archivos para que sea más fácil moverse por ellas:
